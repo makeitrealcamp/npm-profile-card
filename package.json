@@ -10,7 +10,8 @@
   "scripts": {
     "prepublish": "npm run lint:fix",
     "lint": "eslint --ext .js, build.js",
-    "lint:fix": "eslint --ext .js, build.js --fix"
+    "lint:fix": "eslint --ext .js, build.js --fix",
+    "release": "np"
   },
   "repository": {
     "type": "git",
