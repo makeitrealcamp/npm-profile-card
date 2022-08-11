@@ -26,7 +26,7 @@ const data = {
   // https://www.linkedin.com/in/khriztianmoreno/
   linkedin: chalk.gray('https://www.linkedin.com/school/') + chalk.blue('make-it-real-camp'),
   web: chalk.cyan('https://makeitreal.camp'),
-  npx: chalk.red('npx') + ' ' + chalk.white('makeitreal'),
+  npx: chalk.red('npx') + ' ' + chalk.white('makeitrealcamp'),
   labelWork: chalk.white.bold('    Work:'),
   labelTwitter: chalk.white.bold(' Twitter:'),
   labelGitHub: chalk.white.bold('  GitHub:'),
